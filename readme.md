@@ -69,7 +69,7 @@ Quote input values are stored in the database. Premium calculations are performe
 
 ## AI Use
 
-I used ChatGPT during development to help with starter code, debugging, little bit on how to create proper structure, validation, and took some help with premium calculation logic.
+I used ChatGPT during development to help with starter code, debugging, little bit on how to create proper structure, validation, only html code for landing page, and took some help with premium calculation logic.
 
 I personally designed, ran and tested the application, tested the CRUD operations and complete flow, and verified the calculations against the assignment requirements and worked example.
 

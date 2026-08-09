@@ -137,7 +137,7 @@ function QuoteDetailPage() {
                     </h1>
 
                     <p className="text-muted mb-0">
-                        Quote #{quote.id}
+                        {quote.cover_type} health cover quote
                     </p>
                 </div>
 
